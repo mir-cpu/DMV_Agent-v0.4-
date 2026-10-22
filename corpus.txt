@@ -1,0 +1,99 @@
+CALIFORNIA DMV — BASIC DRIVING AND VEHICLE RULES
+
+This document contains a short collection of basic California driving and DMV rules covering turns, parking, traffic signals, driver's license renewal, and vehicle registration.
+
+When making a right turn, drive close to the right edge of the road. If a designated right-turn lane is available, enter the lane at its opening.
+
+Before turning, check for pedestrians, bicyclists, and motorcycles between your vehicle and the curb. Signal at least 100 feet before making the turn.
+
+Reduce your speed and look over your right shoulder before turning. If there is a limit line, stop behind it. If there is no limit line, stop before entering the crosswalk. If there is no crosswalk, stop before entering the intersection.
+
+Look both ways and make the turn only when it is safe. Complete a normal right turn in the lane closest to the right edge of the road. Do not make a wide turn into another lane.
+
+You may turn right at a red traffic light after coming to a complete stop, unless a NO TURN ON RED sign is posted. Before turning, yield to pedestrians and other traffic and make sure the turn is safe.
+
+You may not turn right against a red arrow. Remain stopped until the signal changes to green.
+
+Always yield to pedestrians in a crosswalk when making a turn.
+
+When making a left turn, drive close to the center divider or enter the designated left-turn lane.
+
+If a designated left-turn lane is available, enter it at the opening. Do not cross a solid line to enter a turn lane.
+
+When using a two-way center left-turn lane, enter the lane within 200 feet of the turn. Yield to any vehicle, bicyclist, or motorcyclist already in the lane. Always yield to pedestrians.
+
+Signal at least 100 feet before making the turn. Reduce your speed and look over your left shoulder before turning.
+
+Stop behind the limit line. If there is no limit line, stop before entering the crosswalk. If there is no crosswalk, stop before entering the intersection.
+
+Look both ways and begin the turn only when it is safe. When making a normal left turn from a two-way street, start the turn from the lane closest to the center of the street and complete the turn in the left lane closest to the center of the street in your direction of travel.
+
+Keep your wheels pointed straight ahead while waiting to turn. Do not turn the steering wheel too early because a vehicle hitting you from behind could push your vehicle into oncoming traffic.
+
+You may make a left turn against a red light when turning from a one-way street onto a one-way street, unless a sign prohibits the turn. You must yield to pedestrians, bicyclists, and other vehicles that have the right-of-way.
+
+When parking, follow posted signs, curb markings, and other parking restrictions.
+
+When parallel parking, choose a space that is large enough for your vehicle. Signal before pulling toward the parking space and check your surroundings, including blind spots, for pedestrians, bicyclists, and other vehicles.
+
+When parking next to a curb, position your vehicle close to the curb. California DMV guidance states that a vehicle parked on a street should generally be within 18 inches of the curb.
+
+Before leaving a parked vehicle, make sure it is safely positioned and does not obstruct traffic, pedestrians, driveways, or other restricted areas.
+
+Do not park where signs or curb markings prohibit parking. Parking restrictions can apply near intersections, crosswalks, fire stations, and other locations.
+
+Always check the posted signs and roadway markings before leaving your vehicle because parking restrictions can vary by location.
+
+A solid red traffic signal means STOP. You must stop at the stop or limit line. After stopping, you may turn right on red if there is no NO TURN ON RED sign and the turn is safe.
+
+A red arrow means STOP. Do not turn against a red arrow. Remain stopped until a green traffic signal or green arrow appears.
+
+A flashing red traffic signal means STOP. After stopping, you may proceed when it is safe.
+
+A solid yellow traffic signal means CAUTION. The signal is about to turn red. Stop if you can do so safely. If you cannot stop safely, cross the intersection cautiously.
+
+A flashing yellow traffic signal means PROCEED WITH CAUTION. Slow down and remain alert. You do not need to stop.
+
+A solid green traffic signal means GO, but you must still yield to vehicles, bicyclists, and pedestrians already in the intersection. Do not enter an intersection if you cannot completely cross it before the signal changes to red.
+
+A green arrow allows a protected turn in the direction indicated by the arrow. Oncoming traffic is stopped by a red signal.
+
+If a traffic light is not working, treat the intersection as though it is controlled by STOP signs in all directions. Stop and proceed cautiously when it is safe.
+
+California drivers should renew their driver's license before it expires. The expiration date is printed on the driver's license.
+
+Driving with an expired driver's license is illegal and may result in a citation.
+
+A California driver's license may be renewed in person at a DMV office, by mail, or online, depending on eligibility.
+
+A driver may be eligible to renew a driver's license online when the driver is within 90 days before the expiration date or within 12 months after the expiration date.
+
+Online renewal has eligibility requirements. For example, the driver generally must not need to change their address or personal description and must not be applying for a commercial driver's license renewal.
+
+Before renewing online, drivers should make sure their DMV information is current and have the required account and payment information available.
+
+A renewal notice is a courtesy notice. Drivers are responsible for renewing their driver's license even if they do not receive a renewal notice.
+
+Drivers should check the California DMV website for current renewal eligibility and requirements before completing a renewal.
+
+California vehicles generally must be registered with the Department of Motor Vehicles (DMV).
+
+Vehicle registration has an expiration date. Vehicle owners should renew their registration by the expiration date to avoid late penalties.
+
+Vehicle registration can be renewed through several methods, including online renewal when the vehicle and owner meet the eligibility requirements.
+
+For online registration renewal, the DMV may require the vehicle license plate number, the last five digits of the vehicle identification number (VIN), and payment information.
+
+Online renewal eligibility can also depend on insurance requirements and whether the DMV has the required electronic smog certification information on file.
+
+If an owner needs to change their address, the address should be updated before completing an online registration renewal.
+
+Registration renewal notices provide information about the amount due and renewal requirements. However, vehicle owners are responsible for renewing their registration even if they do not receive a notice.
+
+If a vehicle's registration expires and the owner does not renew it or file the appropriate Planned Nonoperation (PNO) certification by the expiration date, late penalties may apply.
+
+Vehicle registration requirements can vary depending on the vehicle and the circumstances of the transaction. Vehicle owners should check the California DMV website for current requirements before completing a registration transaction.
+
+Source: California Department of Motor Vehicles (DMV), California Driver's Handbook and official DMV renewal/registration information.
+
+This document is intended as a small testing corpus for semantic search, embedding similarity, retrieval, precision, and recall experiments. It is not a substitute for the current California DMV Handbook or official DMV instructions.

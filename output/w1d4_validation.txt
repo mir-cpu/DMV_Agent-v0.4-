@@ -1,0 +1,10 @@
+good call         -> {'eligible_online': True, 'reason': 'within 90 days before expiry', 'note': 'Other online eligibility requirements may still apply.'}
+number as text    -> {'eligible_online': True, 'reason': 'within 90 days before expiry', 'note': 'Other online eligibility requirements may still apply.'}
+word not number   -> {'error': "argument Validation failed :1 validation error for Renewal_Validation\ndays_to_expiry\n  Input should be a valid integer, unable to parse s
+out of range      -> {'error': 'argument Validation failed :1 validation error for Renewal_Validation\ndays_to_expiry\n  Input should be less than or equal to 3650 [type=l
+missing argument  -> {'error': 'argument Validation failed :1 validation error for Renewal_Validation\ndays_to_expiry\n  Field required [type=missing, input_value={}, inpu
+extra argument    -> {'error': "argument Validation failed :1 validation error for Renewal_Validation\ncountry\n  Extra inputs are not permitted [type=extra_forbidden, inp
+unknown signal    -> {'error': "argument Validation failed :1 validation error for Signal_Validation\nsignal\n  Value error, Invalid signal: purple [type=value_error, inpu
+broken JSON       -> {'error': "Inavlid Json object ,Expecting ',' delimiter Please send a valid json object "}
+unknown tool      -> {'error': "Unknown tool pay_fee : avaliable tools: ['check_online_renewal_eligibility', 'get_signal_meaning', 'search_handbook']"}
+empty query       -> {'error': "argument Validation failed :1 validation error for Search_Validation\nquery\n  String should have at least 2 characters [type=string_too_sh

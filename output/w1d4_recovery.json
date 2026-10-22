@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "My License is expiring in next thirty days , can I renew online?"
+  },
+  {
+    "role": "assistant",
+    "content": null,
+    "tool_calls": [
+      {
+        "id": "call_injected_1",
+        "type": "function",
+        "function": {
+          "name": "check_online_renewal_eligibility",
+          "arguments": "{\"days_to_expiry\":\"next thirty days\"}"
+        }
+      }
+    ]
+  },
+  {
+    "role": "tool",
+    "tool_call_id": "call_injected_1",
+    "content": "{\"error\": \"argument Validation failed :1 validation error for Renewal_Validation\\ndays_to_expiry\\n  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='next thirty days', input_type=str]\\n    For further information visit https://errors.pydantic.dev/2.14/v/int_parsing \"}"
+  },
+  {
+    "content": "You mentioned your license is expiring in \"next thirty days.\" Just to clarify, do you mean it will expire exactly in 30 days from today? If you can confirm the exact number of days until your license expires, I can check if you are eligible to renew it online.",
+    "refusal": null,
+    "role": "assistant",
+    "annotations": [],
+    "audio": null,
+    "function_call": null,
+    "tool_calls": null
+  }
+]
